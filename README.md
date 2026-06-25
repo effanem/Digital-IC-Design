@@ -1,7 +1,7 @@
 # Hierarchical Design and Simulation of 4×4 Array Multiplier and BCD Adder Using CMOS Logic
 
 > **Course:** MAVLD502 – Digital IC Design | **Programme:** M.Tech VLSI Design | **Semester:** Fall 2025–26  
-> **Student:** Syed Faheem &nbsp;|&nbsp; **Reg. No:** 25MVD0030 &nbsp;|&nbsp; **Faculty:** [Dr. Sivanantham S](https://www.linkedin.com/in/vlsisiva/)  
+> **Author:** Syed Faheem &nbsp;|&nbsp; **Reg. No:** 25MVD0030 &nbsp;|&nbsp; **Faculty:** [Dr. Sivanantham S](https://www.linkedin.com/in/vlsisiva/)  
 > **Institution:** School of Electronics Engineering, VIT Vellore – 632 014, Tamil Nadu, India
 
 ---
